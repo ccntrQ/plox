@@ -1,0 +1,2 @@
+requires 'Moo',       '==2.003001';
+requires 'Try::Tiny', '==0.28';
