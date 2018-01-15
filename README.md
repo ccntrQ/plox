@@ -9,7 +9,8 @@ I am trying to follow the interpreter implementation using perl.
 
 Chapter 6 completed.
 
-I didn't implement any of the additional stuff from the challenges yet but I'm planning to do so.
+I currently do not plan to work on this again. For a finished lox interpreter that I have written you can visit [loxomotive](
+https://github.com/ccntrq/loxomotive)
 
 ## Requirements
 
